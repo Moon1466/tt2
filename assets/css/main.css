@@ -1763,4 +1763,120 @@ a {
   height: 85px;
 }
 
+.topsale {
+  margin-top: 15px;
+}
+.topsale__title {
+  padding: 16px;
+  background: #000;
+  color: #fff;
+  font-size: 1.7rem;
+  font-weight: 550;
+  line-height: 1.428571429;
+}
+.topsale__tab-list {
+  padding-left: 20px;
+  padding-top: 8px;
+  background: #fff;
+}
+.topsale__select {
+  display: inline-block;
+  font-size: 1.4rem;
+  line-height: 1.428571429;
+  color: #545759;
+  margin: 0 12px 8px;
+}
+.topsale__body {
+  background: #fff;
+  display: flex;
+}
+.topsale__left {
+  width: 41.6666666667%;
+  border-right: 1px solid #d7d7d7;
+}
+.topsale-item {
+  display: flex;
+  align-items: center;
+  padding-top: 8px;
+}
+.topsale-item__link {
+  display: flex;
+  align-items: center;
+}
+.topsale-item__rank {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0px 16px;
+}
+.topsale-item__position {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.428571429;
+}
+.topsale-item__icon {
+  width: 14px;
+  height: 14px;
+}
+.topsale-item__img {
+  width: 100px;
+  height: 100px;
+}
+.topsale-item__body {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 0 16px;
+}
+.topsale-item__name {
+  font-size: 1.4rem;
+  line-height: 19.6px;
+  color: #000;
+}
+.topsale-item__author {
+  font-size: 1.3rem;
+  color: gray;
+  line-height: 1.428571429;
+}
+.topsale-item__score {
+  color: #2f80ed;
+  font-size: 1.3em;
+  line-height: 1.428571429;
+}
+.topsale__right {
+  width: 58.3333333333%;
+  display: flex;
+}
+.topsale__img-main {
+  width: 240px;
+  height: 240px;
+}
+.topsale__content {
+  padding: 0px 30px;
+}
+.topsale__heading {
+  font-size: 1.8rem;
+  font-weight: 550;
+  line-height: 27px;
+}
+.topsale__desc {
+  font-size: 1.4rem;
+  line-height: 1.428571429;
+}
+.topsale__price {
+  margin-top: 20px;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.428571429;
+}
+.topsale__row {
+  display: flex;
+  align-items: center;
+}
+.topsale__old-price {
+  font-size: 1.4rem;
+  line-height: 1.428571429;
+  text-decoration: line-through;
+}
+
 /*# sourceMappingURL=main.css.map */
